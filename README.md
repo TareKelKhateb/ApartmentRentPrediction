@@ -63,7 +63,7 @@ The dataset used for this project is `ApartmentRentPrediction.csv`. It contains 
 ## Results
 
 - Mean Squared Error and R² score for each model were computed.
-- Random Forest model achieved the best performance with the lowest MSE and highest R² score.
+- Random Forest model achieved the best performance with r2 score =  0.8153804815014472
 
 ## Files
 
